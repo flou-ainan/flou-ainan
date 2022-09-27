@@ -1,4 +1,4 @@
-`#devEmT` `#React` `#JavaScrip`
+`#devEmT` `#React` `#JavaScript`
 # Olá, eu sou o Flou Ainan #
 **RSUMÃO**
 
