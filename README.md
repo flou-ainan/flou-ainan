@@ -1,6 +1,8 @@
+`#devEmT` `#React` `#JavaScrip`
+# Olá, eu sou o Flou Ainan #
+**RSUMÃO**
 
-## DESENVOLVEDOR EM CONSTANTE EVOLUÇÃO  ##
-`#devEmT`
+*Me considero um desenvolvedor em constante evolução* 🌎 
 
 Adepto do aprendizado constante. Em tecnologia nunca estamos formados, a formação é diária assim como a evolução do ecossistema tech em que atuamos.
 
