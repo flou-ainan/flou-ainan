@@ -6,7 +6,8 @@
 
 Adepto do aprendizado constante. Em tecnologia nunca estamos formados, a formação é diária assim como a evolução do ecossistema tech em que atuamos.
 
-Atualmente estou me aprofundando em entregar aplicações Frontend em React.js. Dê uma olhada [neste projeto](https://t.me/dapedraaodigital/208).
+Atualmente estou me aprofundando em entregar aplicações Frontend em `React.js`.
+- **[App projetador de escadas](https://t.me/dapedraaodigital/208)**
 
 Sou um profissional técnico com gosto por aprender o funcionamento das coisas, treinado em aprendizado acelerado, tenho uma boa comunicação e visão sistêmica de empresa, o que amplia minha capacidade de gerar valor a quem me contrata. Sou uma pessoa com boa capacidade multidisciplinar, com gosto por desenvolvimento tanto de softskills quanto hardskills.
 
