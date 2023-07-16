@@ -25,3 +25,8 @@ Trilhando a jornada do Dev em T proposto pela galera da Alura !
 https://techguide.sh
 
 #MECONTRATE
+
+✉️ flouainan@gmail.com
+💬 +55 35 99813-8369
+
+
