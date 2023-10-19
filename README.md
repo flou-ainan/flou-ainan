@@ -16,17 +16,13 @@ Sou um profissional técnico com gosto por aprender o funcionamento das coisas, 
 Tenho experiencias com:
 - Webdesign `HTML/CSS/JS`
 - Designer Gráfico `GIMP, Inkscape, Figma, Canva, Blender`
-- Frontend Developer `React.js ⚛️`
+- Frontend Developer `React.js ⚛️, Nextjs, Vanilla`
 - Modelador 3D `Blender`
 - Editor de Vídeo `Kdenlive, OpenShot, Blender, OBS`
 - Game Developer `Godot Engine, Python`
 - Google Sheets `JavaScript`
 
-**Procuro um trabalho remoto júnior** como Webdesigner ou Frontend Developer, que pode incluir tarefas de outras áreas das quais tenho experiencia.
-
-Trilhando a jornada do Dev em T proposto pela galera da Alura !
-https://techguide.sh
-
+**Procuro um trabalho remoto júnior** como Webdesigner ou Frontend Developer.
 #MECONTRATE
 
 ✉️ flouainan@gmail.com
