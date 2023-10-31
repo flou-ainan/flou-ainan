@@ -1,4 +1,5 @@
 `#devEmT` `#React` `#JavaScript`
+<img src="src/capa-github.webp"></img>
 # Olá, eu sou o Flou Ainan # 
 ### Webdesigner e Programador ###
 
