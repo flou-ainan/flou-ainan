@@ -37,6 +37,7 @@ Have experience with:
 
 [<img src="src/images/linkedin-svgrepo-com.png" width="25px"/> **Linkedin**](https://www.linkedin.com/in/flouainan/)
 
+[Frontend Curriculum](https://github.com/flou-ainan/flou-ainan/blob/main/resume.md#flou-ainan-oliveira)
 ✉️ flouainan@gmail.com
 
 💬 +55 35 99813-8369
