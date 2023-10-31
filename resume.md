@@ -1,9 +1,9 @@
-In production...
-ITS JUST A TEMPLATE
+<!-- ![](/src/images/profile-round.webp)<br/> -->
+## Flou Ainan Oliveira
+(Gabriel)
 
-Flou Ainan
-===============
-**Software Engineer**  
+**Frontend Developer**  
+
 ------------------
 #### [Email](mailto:flouainan@gmail.com) · [GitHub](https://github.com/flou-ainan "My GitHub") · [LinkedIn](https://www.linkedin.com/in/kathryn-hampton/ "My LinkedIn") 
   
