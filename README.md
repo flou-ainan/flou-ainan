@@ -33,7 +33,7 @@ Tenho experiencias com:
 - Game Developer `Godot Engine, Python`
 - Google Sheets `JavaScript`
 
-**Procuro um trabalho remoto** como Webdesigner ou Frontend Developer.
+**Procuro um trabalho remoto** como Webdesigner ou Frontend Developer.<br>
 #MECONTRATE
 
 [<img src="src/images/linkedin-svgrepo-com.png" width="25px"/> **Linkedin**](https://www.linkedin.com/in/flouainan/)
