@@ -1,5 +1,5 @@
 `#devEmT` `#React` `#JavaScript` `#NextJS` `#CSSlover`
-![banner mestre flou](src/images/capa-github.webp)
+![banner mestre flou](src/images/capa-github.webp)(sss)
 # Olá, eu sou o Flou Ainan # 
 ### Webdesigner e Programador ###
 
