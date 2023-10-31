@@ -3,9 +3,8 @@
 (Gabriel)
 
 **Frontend Developer**
-Flou is a Talented and passionate Web Developer, Graphic Designer, ReactJS Engineer, 3D Modeler and Video Editor trained in Constructive Fast Learning. Very good self-taught learner with strong appetite for 
+Flou is a Talented and passionate Web Developer, Graphic Designer, ReactJS Engineer, 3D Modeler and Video Editor trained in Constructive Fast Learning. Very good self-taught learner with strong appetite for knowledge and understanding how things work. By understanding the Web foundations he's capable of thinking out of the box to solve problems.
 
-knowledge and understanding how things work. By understanding the Web foundations he's capable of thinking out of the box to solve problems.
 Even with 1–2 years of experience in React, he's capable of delivering good code because he learned it in the right way (grasping core concepts, trying them and reinforcing learning from experience) and refactored everything learned from previous Web Dev experiences to fit the React ecosystem. Flou got 8+ years of experience with coding and 5 years of experience in web development as a part-time developer.
 
 He believes that a good developer is someone who can understand codes by knowing what's happening under the hood, being good at refactoring and joining the variety of features and problem-solving codes together as a whole system that works in harmony. He thinks it's needed to have a good set of soft skills to work and communicate well with a team, and it's sometimes more valuable than having a lot of hard skills.Being a good Developer, experienced Graphic Designer and having worked a lot with people, makes his background fit perfect with his skill set for attending the requirements of a Frontend Developer role.
@@ -95,7 +94,7 @@ Professional Experience
 * Usage of AI to improve workflow
 * Customer Assistance
 * Proffessional Google Business profile making
-#### Sales Person | Mapel Embalagens | 03-2023 – 09-2023 | [Website 🌐](https://mapelembalagens.com.br/)   
+#### Sales Person | Mapel Embalagens | 03-2023 – 09-2023 | [Website 🌐](https://mapelembalagens.com.br/) (I didn't made this site)  
 *Plastic and paper packaging store for retail and wholesale*
 *	Coordinated staff and practiced leadership
 *	Worked with a 28.000 variety products   
