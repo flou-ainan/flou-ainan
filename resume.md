@@ -108,3 +108,5 @@ Professional Experience
 *	Made more than 5 Visual Identities
 ### Links						
   [`Linkedin`](https://www.linkedin.com/in/flouainan/) | [`Website`](https://www.mestreflou.com.br/) | [`Github`](https://github.com/flou-ainan/) | [`Instagram`](https://www.instagram.com/mestreflou/) |  [`Blog`](https://mestreflou.blogspot.com/) |
+
+[Web version for printing](http://mestreflou.eu5.net/frontend-curriculum.html)
