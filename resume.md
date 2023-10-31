@@ -15,57 +15,58 @@ Being an good Developer, experienced Graphic Designer and having worked a lot wi
   
 Skills
 ----
-<!--
-**Hard Skills**
-- React
-- Git/GitHub
-- JavaScript
-- HTML
-- CSS3
-- Linux
-- Figma
-- Responsive Web Design
-- Graphic Design
-- Vetorial Design
-- NextJS
-  
-**Soft Skills**
-- Good English (C1)
-- Charismatic
-- Constructive Fast Learner
-- Leadershiping
-- Open to Dialog
-- Good Systemic Vision
-- Problem Solver
-- Creative -->
-
-| <br>**Hard Skills** | <br>**Soft Skills** |
+|**Hard Skills**‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎‏‏‎ ‎‏‏‎ ‎ |**Soft Skills** ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎‏‏‎ ‎‏‏‎ ‎|
 |---|---|
-| - React ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎‏‏‎ ‎‏‏‎ ‎| - Good English (C1) ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎  ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎‏‏‎ ‎‏‏‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎ ‎‏‏‎ ‎‏‏‎ ‎|
+| - React | - Good English (C1) ‎|
 | - Git/GitHub | - Charismatic |
-| - JavaScript | - Constructive Fast Learner |
+| - JavaScript | - Self Taught Fast Learner |
 | - HTML | - Leadershiping |
 | - CSS3 | - Open to Dialog |
 | - Linux | - Good Systemic Vision |
 | - Figma | - Problem Solver |
 | - Responsive Web Design | - Creative |
-| - Graphic Design |  |
-| - Vetorial Design |  |
+| - Graphic Design | - Self Improving Focused  |
+| - Vetorial Design | - Loves to Code 🧡 |
 | - NextJS |  |
 
-### Projects  
-#### Some Awesome Project · [Website](https://pseudoproject.com/ "Project App") · [GitHub](https://github.com/ "GitHub Repository")
-*A application that gets people interested in hiring me*
-*	Worked a lot to make it good
-*	Used a cool technology stack
-*	Learned how to solve a commom problem
+Projects
+-----
+#### My Business Landing Page · [Website](https://www.mestreflou.com.br "Deployed Project") · [GitHub](https://github.com/flou-ainan/servicos-do-mestre "GitHub Repository")
+*An apealing looking page to show my services*
+*	Still working hard to make it more apealing and with more features
+*	Made with NextJS
+*	Learned how to organize better routing
+*	Learned how to optimze loading time
+*	Deployed on Vercel
+*	Uses some NextJS features like SSR, Image Compression and better links
 
-#### Portfolio Site (todo) · [Website](https://myportifolio.com "Portfolio site") · [GitHub](https://github.com/flou-ainan/personal-site "GitHub Portfolio site") 
-*Personal portfolio site to showcase my projects, made with React*  
-* Responsive web design using CSS and Flexbox, and reusable React components  
-* Uses Netlify for continuous deployment from main GitHub repository  
+#### My Games Catalog · [Website](https://flou-ainan.github.io/my-games-catalog/ "Deployed Project") · [GitHub](https://github.com/flou-ainan/my-games-catalog "GitHub Repository") 
+*Personal games catalog to showcase and test developing features*
+* Made with Vite + React
+* Responsive web design using CSS and Flexbox
+* Reusable React components
+* Make use of React useState feature to hold an array of games.
+* Uses Github Pages for deployment.
 
-### Technical Training  
+#### Fake Twitter · [Website](https://flou-ainan.github.io/twitter-post-maker/ "Deployed Project") · [GitHub](https://flou-ainan.github.io/twitter-post-maker/ "GitHub Repository") 
+*A Basic Twitter Clone to showcase and test developing features*
+* Made with Vite + React
+* Responsive web design using CSS and Flexbox
+* Reusable React components
+* Make use of React useState feature to hold an array of post.
+* Configurable user settings.
+* Uses Github Pages for deployment.
+
+#### Staircase Calculator · [Website](https://flou-ainan.github.io/twitter-post-maker/ "Deployed Project") · [GitHub](https://flou-ainan.github.io/twitter-post-maker/ "GitHub Repository") 
+*A Basic Twitter Clone to showcase and test developing features*
+* Made with Vite + React
+* Responsive web design using CSS and Flexbox
+* Reusable React components
+* Make use of React useState feature to hold an array of post.
+* Configurable user settings.
+* Uses Github Pages for deployment.
+
+ 
 #### ReactJS Development · [Scrimba School](https://lambdaschool.com/courses/cs/web/ "Lambda School") · 2022 – Present   
 *Intensive computer science and software engineering academy focused on developing full-stack web applications using JavaScript*  
 *	Technologies used include: CSS, LESS, React and Redux, NodeJS, Express, and MongoDB  
