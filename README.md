@@ -9,7 +9,7 @@ Fundador da [Mestre Flou Soluções Digitais](https://www.mestreflou.com.br/)
 
 Adepto do aprendizado constante. Em tecnologia nunca estamos formados, a formação é diária assim como a evolução do ecossistema tech em que atuamos.
 
-Atualmente estou me aprofundando em entregar aplicações Frontend em [`ReactJS` <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25" height="25" />](https://react.dev/) com o framework [`NextJS` <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="25" height="25" />](https://nextjs.org/).
+Atualmente estou me aprofundando em entregar aplicações Frontend em [`ReactJS`<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25" height="25" />](https://react.dev/) com o framework [`NextJS`<img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="25" height="25" />](https://nextjs.org/).
 
 
 - **[Catalogo de Jogos](https://github.com/flou-ainan/my-games-catalog#my-games-catalog)**
