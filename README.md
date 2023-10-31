@@ -1,9 +1,10 @@
-`#devEmT` `#React` `#JavaScript` `#NextJS` `#CSS🖤`
-<img src="src/capa-github.webp"></img>
+`#devEmT` `#React` `#JavaScript` `#NextJS` `#CSSlover`
+<img src="src/images/capa-github.webp"></img>
 # Olá, eu sou o Flou Ainan # 
 ### Webdesigner e Programador ###
 
-Fundador da [Mestre Flou Soluções Digitais](https://www.mestreflou.com.br/)
+Fundador da [Mestre Flou Soluções Digitais](https://www.mestreflou.com.br/)<br>
+[<img src="src/images/link-preview-compact-02.webp" width="250px">](https://www.mestreflou.com.br/)
 
 
 *Me considero um desenvolvedor em constante evolução* 🌎 
