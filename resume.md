@@ -70,7 +70,7 @@ Projects
 * Configurable user settings
 * Uses Netlify Pages for continuous deployment from branch Main
 
-Courses
+Education
 ----
 #### ReactJS Development · [Scrimba School](https://scrimba.com/learn/learnreact "Course Webpage") · 2022 – 2023
 *Learn modern React with interactive coding, solving 140+ challenges and building eigth projects.*  
@@ -81,12 +81,9 @@ Courses
 I attended three semesters of an Excellent Computer Science Course where I learned and deepened several key concepts for my daily life as a programmer and also as a designer. I delivered a Game in Python, I learned how to develop a project in pairs from start to finish, 100% with code, original visual and sound arts. I learned Python, delved deeper into Java and Object Orientation. I deepened my knowledge about Data Structures such as: Objects, Vectors, Linked Lists and we even developed a Lisp machine in Java. I learned the Fundamentals of Computer Architecture, representations of integers and floating point numbers in binary, I studied in depth the concept of computers based on the risk architecture, I learned how to operate assembly language and the functioning of codes in binary.
 
 ## Additional Computer Science Courses
-#### Python Game Developing · 
+#### Python Game Developing with Anselmo Montenegro · [Teacher Website](http://profs.ic.uff.br/~anselmo/cursos/LabGames/LabGames20151/exercicios.html "Teacher Website") · 2015
 
 
-#### Learn Cloud Computing with AWS · Eduonix · 2018
-* An introduction to setting up and managing an AWS environment
-* Topics covered include: EC2 instances, IAM users and groups configuration, S3, DynamoDB, and AWS simple services.  
 
 ### Professional Experience  					
 #### Product Marketing Specialist, Spectrum News || Spectrum Reach || 2018 ||  
