@@ -1,5 +1,6 @@
 `#devEmT` `#React` `#JavaScript` `#NextJS` `#CSSlover`
 ![<img src="src/images/capa-github.webp" />](src/images/capa-github.webp)
+[**🇺🇸ENGLISH VERSION ➡️**](/README_EN.md)
 # Olá, eu sou o Flou Ainan # 
 ### Webdesigner e Programador ###
 
@@ -34,6 +35,8 @@ Tenho experiencias com:
 
 **Procuro um trabalho remoto** como Webdesigner ou Frontend Developer.
 #MECONTRATE
+
+[<img src="src/images/linkedin-svgrepo-com.png" width="25px"/> **Linkedin**](https://www.linkedin.com/in/flouainan/)
 
 ✉️ flouainan@gmail.com
 
