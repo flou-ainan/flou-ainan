@@ -1,5 +1,5 @@
 `#devEmT` `#React` `#JavaScript` `#NextJS` `#CSSlover`
-[<img src="src/images/capa-github.webp"></img>]
+![alt](src/images/capa-github.webp)
 # Olá, eu sou o Flou Ainan # 
 ### Webdesigner e Programador ###
 
