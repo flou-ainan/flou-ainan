@@ -33,10 +33,11 @@ Projects
 -----
 #### My Business Landing Page · [Website](https://www.mestreflou.com.br "Deployed Project") · [GitHub](https://github.com/flou-ainan/servicos-do-mestre "GitHub Repository")
 *An apealing looking page to show my services*
-*	Still working hard to make it more apealing and with more features
+*	Still working to make it more apealing and with more features
 *	Made with NextJS
 *	Learned how to organize better routing
 *	Learned how to optimze loading time
+*	Smartly uses React useEffect hook plus recursive programming to implement the TypeWriter on hero section
 *	Deployed on Vercel
 *	Uses some NextJS features like SSR, Image Compression and better links
 
@@ -47,32 +48,42 @@ Projects
 * Reusable React components
 * Make use of React useState feature to hold an array of games.
 * Uses Github Pages for deployment.
+* Implements React Controled Inputs
 
 #### Fake Twitter · [Website](https://flou-ainan.github.io/twitter-post-maker/ "Deployed Project") · [GitHub](https://flou-ainan.github.io/twitter-post-maker/ "GitHub Repository") 
 *A Basic Twitter Clone to showcase and test developing features*
 * Made with Vite + React
 * Responsive web design using CSS and Flexbox
 * Reusable React components
-* Make use of React useState feature to hold an array of post.
-* Configurable user settings.
-* Uses Github Pages for deployment.
+* Make use of React useState feature to hold an array of posts
+* Configurable user settings
+* Uses Github Pages for deployment
+* Implements React Controled Inputs
 
-#### Staircase Calculator · [Website](https://flou-ainan.github.io/twitter-post-maker/ "Deployed Project") · [GitHub](https://flou-ainan.github.io/twitter-post-maker/ "GitHub Repository") 
-*A Basic Twitter Clone to showcase and test developing features*
+#### Staircase Calculator · [Website](https://app-escadas-codeart.netlify.app/ "Deployed Project") · [GitHub](https://github.com/flou-ainan/app-escadas-codeart#app-para-projetar-escadas "GitHub Repository") 
+*An App to help arquitects and builders prokect a staircase*
 * Made with Vite + React
-* Responsive web design using CSS and Flexbox
-* Reusable React components
-* Make use of React useState feature to hold an array of post.
-* Configurable user settings.
-* Uses Github Pages for deployment.
+* Uses SVG.js to draw the stair preview
+* Uses React useEffect hook to interact safely with SVG.js as a DOM Manipulation.
+* Implements React Controled Inputs
+* Make use of React useState feature to hold stair data.
+* Configurable user settings
+* Uses Netlify Pages for continuous deployment from branch Main
 
- 
-#### ReactJS Development · [Scrimba School](https://lambdaschool.com/courses/cs/web/ "Lambda School") · 2022 – Present   
-*Intensive computer science and software engineering academy focused on developing full-stack web applications using JavaScript*  
-*	Technologies used include: CSS, LESS, React and Redux, NodeJS, Express, and MongoDB  
-*	Hands-on experience with client- and server-side testing, agile software development, Git version control, pair programming and authentication  
+Courses
+----
+#### ReactJS Development · [Scrimba School](https://scrimba.com/learn/learnreact "Course Webpage") · 2022 – 2023
+*Learn modern React with interactive coding, solving 140+ challenges and building eigth projects.*  
+*	Technologies used include: React, Node, CSS3, HTML5, ES6, GitHub, VSCode, Vite, Netlify and Firebase.
+*	Hands-on experience projects, Git version control, and comunity code reviewing.  
 
-#### Additional Computer Science Courses
+#### Computer Science · [UFF](https://www.uff.br/ "University Website") · 2015 - 2016 (incomplete)
+I attended three semesters of an Excellent Computer Science Course where I learned and deepened several key concepts for my daily life as a programmer and also as a designer. I delivered a Game in Python, I learned how to develop a project in pairs from start to finish, 100% with code, original visual and sound arts. I learned Python, delved deeper into Java and Object Orientation. I deepened my knowledge about Data Structures such as: Objects, Vectors, Linked Lists and we even developed a Lisp machine in Java. I learned the Fundamentals of Computer Architecture, representations of integers and floating point numbers in binary, I studied in depth the concept of computers based on the risk architecture, I learned how to operate assembly language and the functioning of codes in binary.
+
+## Additional Computer Science Courses
+#### Python Game Developing · 
+
+
 #### Learn Cloud Computing with AWS · Eduonix · 2018
 * An introduction to setting up and managing an AWS environment
 * Topics covered include: EC2 instances, IAM users and groups configuration, S3, DynamoDB, and AWS simple services.  
