@@ -38,7 +38,8 @@ Tenho experiencias com:
 
 [<img src="src/images/linkedin-svgrepo-com.png" width="25px"/> **Linkedin**](https://www.linkedin.com/in/flouainan/)
 
-[Currículo Frontend](https://github.com/flou-ainan/flou-ainan/blob/main/resume.md#flou-ainan-oliveira)
+[Currículo Frontend](https://github.com/flou-ainan/flou-ainan/blob/main/resume.md#flou-ainan-oliveira)\
+[Blog](https://mestreflou.blogspot.com/)
 
 ✉️ flouainan@gmail.com
 
