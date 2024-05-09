@@ -29,7 +29,7 @@ Habilidades
 #### Universidade Federal Fluminense (UFF) (2015)
 Cursos em Ciência da Computação: estruturas de dados, algoritmos, programação orientada a objetos
 
-#### Scrimba School (2022-2023)
+#### Scrimba School (2022)
 Desenvolvimento ReactJS: conceitos modernos de React, aprendizado baseado em projetos
     
 #### Udemy Courses (2018)
