@@ -3,12 +3,11 @@
 
 ### Resumo
 
-Desenvolvedor altamente motivado e orientado a resultados, com sólida base em Ciência da Computação e paixão por análise de dados, buscando transição para a carreira de Cientista de Dados. Capacidade comprovada de aprender novas tecnologias rapidamente e aplicá-las para resolver problemas complexos. Ansioso por utilizar habilidades técnicas em programação, manipulação e visualização de dados para extrair insights valiosos.
-Habilidades
+Desenvolvedor altamente motivado e orientado a resultados, com sólida base em Ciência da Computação e paixão por análise de dados, buscando transição para a carreira de Cientista de Dados. Capacidade comprovada de aprender novas tecnologias rapidamente e aplicá-las para resolver problemas complexos. Ávido por utilizar habilidades técnicas em programação, manipulação e visualização de dados para extrair insights valiosos.
 
 ### Habilidades Técnicas
 | | |
-|---------------------------|----------------------------------|
+|----------------------------|---------------------------------|
 | **Programação**:           | Python, Javascript     		   |
 | **Bancos de Dados**:       | SQL(Básico), MongoDB            |
 | **Visualização de Dados**: |   Tableau (básico)   		   |
@@ -44,7 +43,7 @@ Gerenciamento Financeiro: conceitos como fluxo de caixa, balanço, empreendiment
 ### Experiência Profissional
 
 ##### Desenvolvedor Web, Designer e Proprietário | Mestre Flou | 2023 - Presente
->Frequentemente resolve problemas relacionados com Dados como, compressão e manipulação de dados JSON, criação de gráficos inteligentes e criação de tabelas inteligente EXCEL/Google Sheets para clientes.
+>Frequentemente resolve problemas relacionados com Dados como, compressão e manipulação de dados JSON, criação de gráficos inteligentes e criação de tabelas inteligentes EXCEL/Google Sheets para clientes.
 
 ##### Webdesigner, Designer Gráfico e Proprietário | Flow Office | 2018 – 2022 
 > Criação de tabelas Google Sheets e Excel para clientes.
