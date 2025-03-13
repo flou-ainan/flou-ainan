@@ -17,7 +17,7 @@ Atualmente estou me aprofundando em entregar aplicações Frontend em [<img src=
 <b>Alguns Projetos:</b>
 
 - **[links2go](https://github.com/flou-ainan/links2go?tab=readme-ov-file#links-2-go)** Working On 
-- **[Mercado Livre Link Helper](https://github.com/flou-ainan/mercado-livre-link-helper)**
+- **[Mercado Livre Link Helper](https://codepen.io/flou-ainan/full/rNbywaO)**
 - **[Catalogo de Jogos](https://github.com/flou-ainan/my-games-catalog#my-games-catalog)**
 - **[Fake Twitter](https://github.com/flou-ainan/twitter-post-maker#twitter-post-maker)**
 - **[Landing Page Mestre Flou](https://github.com/flou-ainan/servicos-do-mestre#readme)**
