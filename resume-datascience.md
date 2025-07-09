@@ -9,9 +9,9 @@ Desenvolvedor altamente motivado e orientado a resultados, com sólida base em C
 | | |
 |----------------------------|---------------------------------|
 | **Programação**:           | Python, Javascript     		   |
-| **Bancos de Dados**:       | SQL(Básico), MongoDB            |
-| **Visualização de Dados**: |   Tableau (básico)   		   |
-| **Controle de Versão**:    | Git                			   |
+| **Bancos de Dados**:       | SQL, Oracle, MongoDB            |
+| **Visualização de Dados**: |   Tableau(básico), PowerBI	   |
+| **Controle de Versão**:    | Git, SVN             			   |
 | **Web**:                   | NextJS, React, NodeJS 		   |
 | **Outros**:                | Linux, linha de commando, Excel |
    
@@ -28,6 +28,9 @@ Desenvolvedor altamente motivado e orientado a resultados, com sólida base em C
 #### Universidade Federal Fluminense (UFF) (2015)
 Cursos em Ciência da Computação: estruturas de dados, algoritmos, programação orientada a objetos
 
+#### Unicesumar
+Análise e Desnevolvimento de Sistemas (em curso)
+
 #### Scrimba School (2022)
 Desenvolvimento ReactJS: conceitos modernos de React, aprendizado baseado em projetos
     
@@ -35,8 +38,6 @@ Desenvolvimento ReactJS: conceitos modernos de React, aprendizado baseado em pro
 Gerenciamento Financeiro: conceitos como fluxo de caixa, balanço, empreendimento e gerenciamento de recursos com aplicações práticas e operações no Excel.
 
 ### Cursos Online Adicionais (em andamento)
-
-#### Statistical Learning Course I ISLP Python Labs I 2023 | Stanford Online
 
 #### Data Science Hands-On Crash Course | Free Code Camp
 
