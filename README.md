@@ -134,6 +134,7 @@ Sou um **adepto do aprendizado constante**, sempre buscando:
 
 | 🚀 Projeto | 📝 Descrição | 🛠️ Tech Stack | 🔗 Links |
 |:----------:|:-------------|:------------:|:--------:|
+| **Online Jokenpo** | Jogo de pedra, papel ou tesoura online | React, Express | [Repo](https://github.com/flou-ainan/jokenpo-multiplayer) |
 | **links2go** | Ferramenta para gerenciamento de links | React, Next.js | [Repo](https://github.com/flou-ainan/links2go) |
 | **ML Link Helper** | Automatizador para Mercado Livre | JavaScript | [Demo](https://codepen.io/flou-ainan/full/rNbywaO) |
 | **Games Catalog** | Catálogo pessoal de jogos | React | [Repo](https://github.com/flou-ainan/my-games-catalog) |
