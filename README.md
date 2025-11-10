@@ -1,11 +1,11 @@
 `#devEmT` `#React` `#JavaScript` `#NextJS` `#DataEngineering` `#CSSlover`
 
 <h1 align="center">👋 Olá! Eu sou o Flou Ainan</h1>
-<h3 align="center">🎨 Webdesigner | 💻 Frontend Developer | 🔧 Data Engineer</h3>
+<h3 align="center"> 💻 Fullstack Developer | 🎨 Webdesigner | 📊️ Data Analyst 
 
 <p align="center">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="Open to Work" />
-    <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Data-blue?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-SAAS%20%26%20AI-blue?style=for-the-badge" alt="Focus" />
     <img src="https://img.shields.io/badge/Location-Remote-purple?style=for-the-badge" alt="Remote" />
 </p>
 
